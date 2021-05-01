@@ -1,0 +1,7 @@
+1. Scrape recipes from some of favourite online providers with BeautifulSoup and Spliter
+2. Create a custom search engine to return ordered, relevant recipes.
+3. Build a simple front end website with HTML and Javascript and host with github pages
+4. Access your recipes via API using Flask, a micro web framwork in Python
+5. Use Herokyu to host the API.
+
+
